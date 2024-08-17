@@ -4,10 +4,11 @@ import (
 	"encoding/xml"
 	"errors"
 	"fmt"
-	"go_tutorials/chapter2/sample/search"
 	"log"
 	"net/http"
 	"regexp"
+
+	"github.com/Pobx/go101/chapter2/sample/search"
 )
 
 type (
